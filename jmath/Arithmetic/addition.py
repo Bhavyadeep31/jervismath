@@ -10,7 +10,7 @@ Example:
         add(142+32532+523+25325)
 
 Note:
-    You need to add this inside the print statement so as to get the result printed in the terminal.
+    - You need to add this inside the print statement so as to get the result printed in the terminal.
 '''
 
 def add(*numbers):
